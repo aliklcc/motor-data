@@ -1,0 +1,82 @@
+[
+  {
+    "id": "MAN-001",
+    "name": "Yamaha",
+    "country": "Japan",
+    "foundedYear": 1955,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-yamaha.jpg"
+  },
+  {
+    "id": "MAN-002",
+    "name": "Kawasaki",
+    "country": "Japan",
+    "foundedYear": 1896,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-kawasaki.jpg"
+  },
+  {
+    "id": "MAN-003",
+    "name": "Honda",
+    "country": "Japan",
+    "foundedYear": 1948,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-honda.jpg"
+  },
+  {
+    "id": "MAN-004",
+    "name": "BMW Motorrad",
+    "country": "Germany",
+    "foundedYear": 1923,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-bmw.jpg"
+  },
+  {
+    "id": "MAN-005",
+    "name": "Ducati",
+    "country": "Italy",
+    "foundedYear": 1926,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-ducati.jpg"
+  },
+  {
+    "id": "MAN-006",
+    "name": "Suzuki",
+    "country": "Japan",
+    "foundedYear": 1909,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-suzuki.jpg"
+  },
+  {
+    "id": "MAN-007",
+    "name": "KTM",
+    "country": "Austria",
+    "foundedYear": 1934,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-ktm.jpg"
+  },
+  {
+    "id": "MAN-008",
+    "name": "Harley-Davidson",
+    "country": "United States",
+    "foundedYear": 1903,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-harley.jpg"
+  },
+  {
+    "id": "MAN-009",
+    "name": "Triumph",
+    "country": "United Kingdom",
+    "foundedYear": 1902,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-triumph.jpg"
+  },
+  {
+    "id": "MAN-010",
+    "name": "Aprilia",
+    "country": "Italy",
+    "foundedYear": 1945,
+    "isActive": true,
+    "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-aprilia.jpg"
+  }
+]

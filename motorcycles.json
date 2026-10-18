@@ -1,0 +1,192 @@
+[
+  {
+    "id": "MOTO-001",
+    "name": "Yamaha MT-07",
+    "description": "De Yamaha MT-07 is een lichte en wendbare naked bike die bekend staat om zijn koppelrijke CP2-motor en speelse rijgedrag, ideaal voor zowel stadsverkeer als bochtige wegen.",
+    "engineCapacity": 689,
+    "isAvailable": true,
+    "releaseDate": "2023-01-15",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/mt07.jpg",
+    "category": "Naked",
+    "features": ["ABS", "Traction Control", "LED Lighting"],
+    "manufacturer": {
+      "id": "MAN-001",
+      "name": "Yamaha",
+      "country": "Japan",
+      "foundedYear": 1955,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-yamaha.jpg"
+    }
+  },
+  {
+    "id": "MOTO-002",
+    "name": "Kawasaki Ninja 650",
+    "description": "De Ninja 650 combineert sportieve looks met comfortabel dagelijks gebruik. De motor biedt een soepele vermogensafgifte en een rechte zithouding.",
+    "engineCapacity": 649,
+    "isAvailable": true,
+    "releaseDate": "2022-05-10",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Ninja-650.jpg",
+    "category": "Sport",
+    "features": ["ABS", "Slipper Clutch", "Digital Display"],
+    "manufacturer": {
+      "id": "MAN-002",
+      "name": "Kawasaki",
+      "country": "Japan",
+      "foundedYear": 1896,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-kawasaki.jpg"
+    }
+  },
+  {
+    "id": "MOTO-003",
+    "name": "Honda CB650R",
+    "description": "De Honda CB650R is een premium naked bike met een viercilindermotor en een strak Neo Sports Café design, gericht op rijders die stijl en prestaties zoeken.",
+    "engineCapacity": 649,
+    "isAvailable": true,
+    "releaseDate": "2023-03-01",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Honda-CB650R.jpg",
+    "category": "Naked",
+    "features": ["ABS", "Riding Modes", "Quick Shifter"],
+    "manufacturer": {
+      "id": "MAN-003",
+      "name": "Honda",
+      "country": "Japan",
+      "foundedYear": 1948,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-honda.jpg"
+    }
+  },
+  {
+    "id": "MOTO-004",
+    "name": "BMW R 1250 GS",
+    "description": "De BMW R 1250 GS is een iconische adventure motor die uitblinkt in lange afstanden, comfort en technologie, zowel on-road als off-road.",
+    "engineCapacity": 1254,
+    "isAvailable": true,
+    "releaseDate": "2021-09-20",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/BMW%20R%201250%20GS.jpg",
+    "category": "Adventure",
+    "features": ["ABS Pro", "Cruise Control", "Heated Grips"],
+    "manufacturer": {
+      "id": "MAN-004",
+      "name": "BMW Motorrad",
+      "country": "Germany",
+      "foundedYear": 1923,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-bmw.jpg"
+    }
+  },
+  {
+    "id": "MOTO-005",
+    "name": "Ducati Monster",
+    "description": "De Ducati Monster staat bekend om zijn minimalistisch design en krachtige V-twin motor, ontworpen voor sportieve prestaties en een directe rijervaring.",
+    "engineCapacity": 937,
+    "isAvailable": true,
+    "releaseDate": "2022-07-08",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Ducati%20Monster.jpg",
+    "category": "Naked",
+    "features": ["ABS", "Launch Control", "Riding Modes"],
+    "manufacturer": {
+      "id": "MAN-005",
+      "name": "Ducati",
+      "country": "Italy",
+      "foundedYear": 1926,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-ducati.jpg"
+    }
+  },
+  {
+    "id": "MOTO-006",
+    "name": "Suzuki SV650",
+    "description": "De Suzuki SV650 is een betrouwbare en toegankelijke motor met een V-twin karakter, geschikt voor beginnende en ervaren rijders.",
+    "engineCapacity": 645,
+    "isAvailable": false,
+    "releaseDate": "2020-04-12",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Suzuki%20SV650.jpg",
+    "category": "Naked",
+    "features": ["ABS", "Low RPM Assist", "Easy Start System"],
+    "manufacturer": {
+      "id": "MAN-006",
+      "name": "Suzuki",
+      "country": "Japan",
+      "foundedYear": 1909,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-suzuki.jpg"
+    }
+  },
+  {
+    "id": "MOTO-007",
+    "name": "KTM 390 Duke",
+    "description": "De KTM 390 Duke is een lichte en agressief gestylde naked bike die bekend staat om zijn wendbaarheid en funfactor.",
+    "engineCapacity": 373,
+    "isAvailable": true,
+    "releaseDate": "2023-02-18",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/KTM%20390%20Duke.jpg",
+    "category": "Naked",
+    "features": ["ABS", "TFT Display", "Ride-by-Wire"],
+    "manufacturer": {
+      "id": "MAN-007",
+      "name": "KTM",
+      "country": "Austria",
+      "foundedYear": 1934,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-ktm.jpg"
+    }
+  },
+  {
+    "id": "MOTO-008",
+    "name": "Harley-Davidson Iron 883",
+    "description": "De Iron 883 is een klassieke cruiser met een laag zadel en een rauw karakter, gericht op ontspannen ritten en iconische stijl.",
+    "engineCapacity": 883,
+    "isAvailable": false,
+    "releaseDate": "2019-06-30",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Harley-Davidson%20Iron%20883.jpg",
+    "category": "Cruiser",
+    "features": ["ABS", "Belt Drive", "Low Seat Height"],
+    "manufacturer": {
+      "id": "MAN-008",
+      "name": "Harley-Davidson",
+      "country": "United States",
+      "foundedYear": 1903,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-harley.jpg"
+    }
+  },
+  {
+    "id": "MOTO-009",
+    "name": "Triumph Street Triple RS",
+    "description": "De Street Triple RS is een high-performance naked bike met scherpe handling, geavanceerde elektronica en een krachtige driecilinder.",
+    "engineCapacity": 765,
+    "isAvailable": true,
+    "releaseDate": "2023-04-05",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Triumph%20Street%20Triple%20RS.jpg",
+    "category": "Naked",
+    "features": ["Quick Shifter", "Cornering ABS", "Riding Modes"],
+    "manufacturer": {
+      "id": "MAN-009",
+      "name": "Triumph",
+      "country": "United Kingdom",
+      "foundedYear": 1902,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-triumph.jpg"
+    }
+  },
+  {
+    "id": "MOTO-010",
+    "name": "Aprilia Tuono 660",
+    "description": "De Aprilia Tuono 660 is een sportieve naked bike met geavanceerde rijhulpsystemen en een agressief maar comfortabel karakter.",
+    "engineCapacity": 659,
+    "isAvailable": true,
+    "releaseDate": "2022-11-11",
+    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Aprilia%20Tuono%20660.jpg",
+    "category": "Naked",
+    "features": ["Traction Control", "Wheelie Control", "Quick Shifter"],
+    "manufacturer": {
+      "id": "MAN-010",
+      "name": "Aprilia",
+      "country": "Italy",
+      "foundedYear": 1945,
+      "isActive": true,
+      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-aprilia.jpg"
+    }
+  }
+]
