@@ -6,7 +6,7 @@
     "engineCapacity": 689,
     "isAvailable": true,
     "releaseDate": "2023-01-15",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/mt07.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/mt07.jpg",
     "category": "Naked",
     "features": ["ABS", "Traction Control", "LED Lighting"],
     "manufacturer": {
@@ -15,7 +15,7 @@
       "country": "Japan",
       "foundedYear": 1955,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-yamaha.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-yamaha.jpg"
     }
   },
   {
@@ -25,7 +25,7 @@
     "engineCapacity": 649,
     "isAvailable": true,
     "releaseDate": "2022-05-10",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Ninja-650.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/Ninja-650.jpg",
     "category": "Sport",
     "features": ["ABS", "Slipper Clutch", "Digital Display"],
     "manufacturer": {
@@ -34,7 +34,7 @@
       "country": "Japan",
       "foundedYear": 1896,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-kawasaki.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-kawasaki.jpg"
     }
   },
   {
@@ -44,7 +44,7 @@
     "engineCapacity": 649,
     "isAvailable": true,
     "releaseDate": "2023-03-01",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Honda-CB650R.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/Honda-CB650R.jpg",
     "category": "Naked",
     "features": ["ABS", "Riding Modes", "Quick Shifter"],
     "manufacturer": {
@@ -53,7 +53,7 @@
       "country": "Japan",
       "foundedYear": 1948,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-honda.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-honda.jpg"
     }
   },
   {
@@ -63,7 +63,7 @@
     "engineCapacity": 1254,
     "isAvailable": true,
     "releaseDate": "2021-09-20",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/BMW%20R%201250%20GS.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/BMW%20R%201250%20GS.jpg",
     "category": "Adventure",
     "features": ["ABS Pro", "Cruise Control", "Heated Grips"],
     "manufacturer": {
@@ -72,7 +72,7 @@
       "country": "Germany",
       "foundedYear": 1923,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-bmw.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-bmw.jpg"
     }
   },
   {
@@ -82,7 +82,7 @@
     "engineCapacity": 937,
     "isAvailable": true,
     "releaseDate": "2022-07-08",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Ducati%20Monster.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/Ducati%20Monster.jpg",
     "category": "Naked",
     "features": ["ABS", "Launch Control", "Riding Modes"],
     "manufacturer": {
@@ -91,7 +91,7 @@
       "country": "Italy",
       "foundedYear": 1926,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-ducati.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-ducati.jpg"
     }
   },
   {
@@ -101,7 +101,7 @@
     "engineCapacity": 645,
     "isAvailable": false,
     "releaseDate": "2020-04-12",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Suzuki%20SV650.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/Suzuki%20SV650.jpg",
     "category": "Naked",
     "features": ["ABS", "Low RPM Assist", "Easy Start System"],
     "manufacturer": {
@@ -110,7 +110,7 @@
       "country": "Japan",
       "foundedYear": 1909,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-suzuki.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-suzuki.jpg"
     }
   },
   {
@@ -120,7 +120,7 @@
     "engineCapacity": 373,
     "isAvailable": true,
     "releaseDate": "2023-02-18",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/KTM%20390%20Duke.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/KTM%20390%20Duke.jpg",
     "category": "Naked",
     "features": ["ABS", "TFT Display", "Ride-by-Wire"],
     "manufacturer": {
@@ -129,7 +129,7 @@
       "country": "Austria",
       "foundedYear": 1934,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-ktm.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-ktm.jpg"
     }
   },
   {
@@ -139,7 +139,7 @@
     "engineCapacity": 883,
     "isAvailable": false,
     "releaseDate": "2019-06-30",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Harley-Davidson%20Iron%20883.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/Harley-Davidson%20Iron%20883.jpg",
     "category": "Cruiser",
     "features": ["ABS", "Belt Drive", "Low Seat Height"],
     "manufacturer": {
@@ -148,7 +148,7 @@
       "country": "United States",
       "foundedYear": 1903,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-harley.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-harley.jpg"
     }
   },
   {
@@ -158,7 +158,7 @@
     "engineCapacity": 765,
     "isAvailable": true,
     "releaseDate": "2023-04-05",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Triumph%20Street%20Triple%20RS.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/Triumph%20Street%20Triple%20RS.jpg",
     "category": "Naked",
     "features": ["Quick Shifter", "Cornering ABS", "Riding Modes"],
     "manufacturer": {
@@ -167,7 +167,7 @@
       "country": "United Kingdom",
       "foundedYear": 1902,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-triumph.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-triumph.jpg"
     }
   },
   {
@@ -177,7 +177,7 @@
     "engineCapacity": 659,
     "isAvailable": true,
     "releaseDate": "2022-11-11",
-    "imageUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/Aprilia%20Tuono%20660.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/Aprilia%20Tuono%20660.jpg",
     "category": "Naked",
     "features": ["Traction Control", "Wheelie Control", "Quick Shifter"],
     "manufacturer": {
@@ -186,7 +186,7 @@
       "country": "Italy",
       "foundedYear": 1945,
       "isActive": true,
-      "logoUrl": "https://raw.githubusercontent.com/Alikilic3/motor-api-data/main/images/logo-aprilia.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/aliklcc/motor-data/main/images/logo-aprilia.jpg"
     }
   }
 ]
